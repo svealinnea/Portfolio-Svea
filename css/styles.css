@@ -28,3 +28,21 @@ img {
   font-size: large;
   color: whitesmoke;
 }
+.column1 {
+  width: 350px;
+  float: left;
+  background-color:#FBE7C6;
+}
+.column2 {
+  width: 350px;
+  float: left;
+  background-color:#B4F8C8;
+}
+.column3 {
+  width: 350px;
+  float: left;
+  background-color:#A0E7E5;
+}
+body {
+  border: grey;
+}
