@@ -5,10 +5,10 @@
 ### By: Svea Wade
 
 ## Description
-This is a portfolio showcasing what I have learned while attending Epicodus. It will be updated throughout my time in school. 
+This is a portfolio showcasing what I have learned while attending Epicodus. Currently it has information about other projects that I have completed, things about me and some of my favorite pictures. It will be updated throughout my time in school. 
 
 ## Setup
-You can view the website online here. You can also open it locally within your computer by cloning the repository [here](https://github.com/svealinnea/Portfolio-Svea1) 
+You can view the website in GitHub pages online [here](https://svealinnea.github.io/Portfolio-Svea1/). You can also open it locally within your computer by cloning the repository [here](https://github.com/svealinnea/Portfolio-Svea1) 
 
 
 ## Known Bugs
@@ -16,7 +16,7 @@ Currently there are no known bugs.
 
 
 ## Contact Information
-Feel free to reach out to me directly if you have any questions. You can email me at svealinneawade@gmail.com 
+Feel free to reach out to me if you have any questions. You can email me at svealinneawade@gmail.com 
 
 
 ## Technologies Used
@@ -28,6 +28,8 @@ Feel free to reach out to me directly if you have any questions. You can email m
 *Bootstrap*
 
 ## Legal
+
+I used the MIT license, see below:
 
 Copyright (c) 2020 Svea Wade
 
