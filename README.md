@@ -8,7 +8,7 @@
 This is a portfolio showcasing what I have learned while attending Epicodus. It will be updated throughout my time in school. 
 
 ## Setup
-You can view the website online here. You can also open it locally within your computer by cloning the repository [here](https://github.com/svealinnea/Portfolio-Svea) 
+You can view the website online here. You can also open it locally within your computer by cloning the repository [here]() 
 
 
 ## Known Bugs
