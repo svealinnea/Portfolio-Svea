@@ -15,3 +15,16 @@ img {
   height: min-content;
   float: left;
 }
+.box {
+  width:100%;
+  border: gray;
+  padding: 5px;
+  border-width: 5px;
+  background-color: #FFAEBC;
+  margin-top: 10px;
+  text-align: center;
+  font-family: monospace;
+  font-weight: bolder;
+  font-size: large;
+  color: whitesmoke;
+}
