@@ -25,7 +25,7 @@ img {
   text-align: center;
   font-family: monospace;
   font-weight: bolder;
-  font-size: large;
+  font-size: 30px;
   color: whitesmoke;
 }
 .column1 {
@@ -46,5 +46,7 @@ img {
 h2 {
   font-size:30px;
   color: #FFAEBC;
-  font-feature-settings: "vkrn";
+}
+.highlight {
+  color:#A0E7E5
 }
