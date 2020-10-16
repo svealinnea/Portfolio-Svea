@@ -1,0 +1,10 @@
+.sidebar {
+  width: 100%;
+  float: right;
+  background-color: #A0E7E5;
+  text-align: center;
+}
+h1 {
+  color: whitesmoke;
+  font-family: monospace;
+}
