@@ -6,7 +6,7 @@
 }
 h1 {
   color: whitesmoke;
-  font-family: monospace;
+  font-family: monospace; 
 }
 img {
   margin-bottom: 10px;
@@ -43,6 +43,8 @@ img {
   float: left;
   background-color:#A0E7E5;
 }
-body {
-  border: grey;
+h2 {
+  font-size:30px;
+  color: #FFAEBC;
+  font-feature-settings: "vkrn";
 }
