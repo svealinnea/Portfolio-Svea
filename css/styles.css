@@ -20,8 +20,9 @@ img {
   border: gray;
   padding: 5px;
   border-width: 5px;
-  background-color: #FFAEBC;
-  margin-top: 10px;
+  background-color: #faa7b5;
+  margin-top: 5px;
+  margin-bottom: 5px;
   text-align: center;
   font-family: monospace;
   font-weight: bolder;
@@ -49,4 +50,12 @@ h2 {
 }
 .highlight {
   color:#A0E7E5
+}
+h3 {
+  text-align: center;
+  color: whitesmoke;
+  text-decoration: rgb(86, 160, 160);
+}
+body {
+  color: grey
 }

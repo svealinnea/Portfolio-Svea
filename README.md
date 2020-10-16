@@ -5,15 +5,14 @@
 ### By: Svea Wade
 
 ## Description
-This is a portfolio showcasing what I have learned while attending Epicodus. Currently it is 
+This is a portfolio showcasing what I have learned while attending Epicodus. It will be updated throughout my time in school. 
 
 ## Setup
--You can view the website online here:
--You can open it locally within your computer by cloning the repository here:
+You can view the website online here. You can also open it locally within your computer by cloning the repository [here](https://github.com/svealinnea/Portfolio-Svea) 
 
 
 ## Known Bugs
-Currently there are no known bugs
+Currently there are no known bugs.
 
 
 ## Contact Information
@@ -26,7 +25,7 @@ Feel free to reach out to me directly if you have any questions. You can email m
 *CSS*,
 *GitHub*,
 *Git*,
-*Bootstrap*,
+*Bootstrap*
 
 ## Legal
 
