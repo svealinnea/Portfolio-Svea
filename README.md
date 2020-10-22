@@ -5,27 +5,44 @@
 ### By: Svea Wade
 
 ## Description
-This is a portfolio showcasing what I have learned while attending Epicodus. Currently it has information about other projects that I have completed, things about me and some of my favorite pictures. It will be updated throughout my time in school. 
+
+This is a portfolio showcasing what I have learned while attending Epicodus. Currently it has information about other projects that I have completed, things about me and some of my favorite pictures. It will be updated throughout my time in school.
 
 ## Setup
-You can view the website in GitHub pages online [here](https://svealinnea.github.io/Portfolio-Svea1/). You can also open it locally within your computer by cloning the repository [here](https://github.com/svealinnea/Portfolio-Svea1) 
 
+### View Online:
+
+You can view the website in GitHub pages online [here](https://svealinnea.github.io/Portfolio-Svea1/).
+
+### Open on your computer:
+
+You can also open it locally within your computer by cloning the repository [here](https://github.com/svealinnea/Portfolio-Svea1)
+
+Here are some instructions on how to do so:
+
+1. You will need an internet browser & a code editor installed on your computer. Examples include: VSCode.
+2. When you open the link above you will need to click on the "clone or download button"
+3. After it downloads you will need to open the document labeled "index.html"
+4. You will then need to clone it on your computer
+   git Clone (https://github.com/svealinnea/Portfolio-Svea1)
+5. After you clone it you will need to open it in your prefered code editor
+6. Last step is to open it into a browser!
 
 ## Known Bugs
+
 Currently there are no known bugs.
 
-
 ## Contact Information
-Feel free to reach out to me if you have any questions. You can email me at svealinneawade@gmail.com 
 
+Feel free to reach out to me if you have any questions. You can email me at svealinneawade@gmail.com
 
 ## Technologies Used
 
-*HTML*,
-*CSS*,
-*GitHub*,
-*Git*,
-*Bootstrap*
+*HTML
+*CSS
+*GitHub
+*Git
+*Bootstrap
 
 ## Legal
 
